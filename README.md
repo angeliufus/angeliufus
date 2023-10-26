@@ -4,26 +4,45 @@
 ![](https://komarev.com/ghpvc/?username=angeliufus&color=blueviolet)
 
 # My name is Àngels Sastre, trying to uncover the hidden insights of the huge amounts of data available. 
-An enthusiastic seeker of new business oportunities !
 
-Welcome to my GitHub world, where numbers dance, financial insights bloom, and data stories unfold! 🚀📈🔍
 
-In daytime, I'm mostly your friendly financial analyst, armed with spreadsheets and business acumen. By night, I transform into a data scientist, wielding Python, and the art of machine learning to unlock the hidden treasures in data. 🌙🔢💼
+## About Me
 
-Whether I'm deciphering the secrets of my first project 👨‍💻 in Data Science: Public pension predictions in Spain https://github.com/angeliufus/Estudi-amb-Machine-Learning-del-Sistema-de-Pensions-Public-espanyol, creating magical data visualizations, or diving into predictive analytics, I'm your trusted companion on this exciting journey through the realms of finance and data. 🤓🌟🌐💰
+By day, I'm your friendly financial analyst, navigating spreadsheets and decoding business puzzles. By night, I transform into a data scientist, wielding Python and the art of machine learning to unearth hidden treasures in data. 🌙🔢💼
+
+## Research Focus
+
+I have a deep passion for economic and social research, and I'm particularly interested in exploring 👨‍💻 the following areas:
+- Public pension sustainability in Spain : [Project Link](https://github.com/angeliufus/Estudi-amb-Machine-Learning-del-Sistema-de-Pensions-Public-espanyol)
+- Education and job prospect relation
+- Gender differences in human capital accumulation
+- Labour,Health, Social justice and wellbeing
+- Social Mobility by country 
 
 Feel free to dive into my repository filled with data science adventures, and my love for both data and a dash of humor. 🚀🤓
 
 Join me on this quest for knowledge, where we'll make finance fascinating and data analysis a thrilling adventure waiting to be told! 🌌📈🌟🚀
 
-👯 Open to teaming up on cool data science and analytics projects! Let's make some data magic together!" 🤝🔍📊
+## Collaborate with Me!
 
-🤝 Totally up for lending a hand with NLP data science and any awesome social projects. Let's chat!" 🤗📊🌍
+I'm always open to teaming up on exciting data science and analytics projects. Let's collaborate and create some data magic together! 🤝🔍📊
 
-⚡ Fun fact: I love sketching, hiking, real food cooking, movie festivals, and sharing geeky interests with my family.
+I'm also eager to lend a hand with Big Data projects or learning in Natural Language Processing (NLP) data science and social projects. Let's chat and brainstorm new ideas! 🤗📊🌍
 
-📫 How to reach me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/angelssastre/)
-[![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/angelssastredatascience)
+## Fun Facts
+
+When I'm not knee-deep in data, you can find me:
+- Sketching my thoughts or my 2 british shorthair cats 🎨
+- Exploring the great outdoors through hiking ⛰️
+- Cooking up delicious real food 🍳
+- Immersing myself in movie festivals 🎬
+- Sharing geeky interests with my family 🤓
+
+## How to Connect
+
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/angelssastre/) to explore collaboration opportunities or simply have a chat.
+
+💬 Connect with me on [Discord](https://discordapp.com/users/angelssastredatascience) for more informal conversations and discussions.
+
 
 
