@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%8E%89%F0%9F%93%88+Hello+Data+Explorers!+%F0%9F%93%8A%F0%9F%8C%9F)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=angeliufus&color=blueviolet)
 
 # My name is Àngels Sastre, trying to uncover the hidden insights of the huge amounts of data available. 
