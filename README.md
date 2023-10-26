@@ -8,8 +8,6 @@ An enthusiastic seeker of new business oportunities !
 
 Welcome to my GitHub world, where numbers dance, financial insights bloom, and data stories unfold! 🚀📈🔍
 
-[![Contact:](https://skillicons.dev/icons?i=linkedin,discord&perline=2)](https://skillicons.dev)
-
 In daytime, I'm mostly your friendly financial analyst, armed with spreadsheets and business acumen. By night, I transform into a data scientist, wielding Python, and the art of machine learning to unlock the hidden treasures in data. 🌙🔢💼
 
 Whether I'm deciphering the secrets of my first project 👨‍💻 in Data Science: Public pension predictions in Spain https://github.com/angeliufus/Estudi-amb-Machine-Learning-del-Sistema-de-Pensions-Public-espanyol, creating magical data visualizations, or diving into predictive analytics, I'm your trusted companion on this exciting journey through the realms of finance and data. 🤓🌟🌐💰
@@ -25,4 +23,5 @@ Join me on this quest for knowledge, where we'll make finance fascinating and da
 ⚡ Fun fact: I love sketching, hiking, real food cooking, movie festivals, and sharing geeky interests with my family.
 
 📫 How to reach me https://www.linkedin.com/in/angelssastre/
+[![Contact:](https://skillicons.dev/icons?i=linkedin,discord&perline=2)](https://skillicons.dev)
 
