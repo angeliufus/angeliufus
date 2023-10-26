@@ -24,7 +24,7 @@ Feel free to dive into my repository filled with data science adventures, and my
 Join me on this quest for knowledge, where we'll make finance fascinating and data analysis a thrilling adventure waiting to be told! 🌌📈🌟🚀
 
 ## Skills
-[![py](https://skillicons.dev/icons?i=py&bg=white&color=black)]
+![py](https://skillicons.dev/icons?i=py&bg=white&color=black)
 
 ## Collaborate with Me!
 
