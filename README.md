@@ -27,6 +27,8 @@ Join me on this quest for knowledge, where we'll make finance fascinating and da
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,selenium,stackoverflow&bg=white&color=black)
 ### Libraries
 Numpy, Pandas, Matplotlib, Plotly, Seaborn, Scrapy, Statsmodels, BeautifulSoup, Tensorflow
+### Analysis
+Classification, clustering, predictive analytics, trends, improve acuracy of modeling via parameter tuning
 
 ## Collaborate with Me!
 
