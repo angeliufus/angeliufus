@@ -5,7 +5,7 @@
 
 Welcome to my GitHub world, where numbers dance, financial insights bloom, and data stories unfold! 🚀📈🔍
 
-I'm Àngels Sastre, your go-to data explorer and startup and new business . In the daytime, I'm your friendly financial analyst, armed with spreadsheets and business acumen. By night, I transform into a data scientist, wielding Python, and the art of machine learning to unlock the hidden treasures in data. 🌙🔢💼
+I'm Àngels Sastre, your go-to data explorer and new business passionate discoverer. In the daytime, I'm mostly your friendly financial analyst, armed with spreadsheets and business acumen. By night, I transform into a data scientist, wielding Python, and the art of machine learning to unlock the hidden treasures in data. 🌙🔢💼
 
 Whether I'm deciphering the secrets of the pension system in Spain, creating magical data visualizations, or diving into predictive analytics, I'm your trusted companion on this exciting journey through the realms of finance and data. 🌟🌐💰
 
