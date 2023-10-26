@@ -8,7 +8,7 @@
 
 ## About Me
 
-By day, I'm your friendly financial analyst, navigating spreadsheets and decoding business puzzles. By night, I transform into a data scientist, wielding Python and the art of machine learning to unearth hidden treasures in data. 🌙🔢💼
+By day, I'm your friendly financial analyst, navigating spreadsheets and decoding business puzzles. By night, I transform into a data scientist, wielding Python and the art of machine learning to unearth hidden treasures in data. Love showing results in funky graph animations 🌙🔢💼
 
 ## Research Focus
 
@@ -24,7 +24,7 @@ Feel free to dive into my repository filled with data science adventures, and my
 Join me on this quest for knowledge, where we'll make finance fascinating and data analysis a thrilling adventure waiting to be told! 🌌📈🌟🚀
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=py,mysql&bg=white&color=black)
+![My Skills](https://skillicons.dev/icons?i=py,mysql,stackoverflow&bg=white&color=black)
 
 ## Collaborate with Me!
 
