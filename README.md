@@ -23,6 +23,7 @@ Join me on this quest for knowledge, where we'll make finance fascinating and da
 ⚡ Fun fact: I love sketching, hiking, real food cooking, movie festivals, and sharing geeky interests with my family.
 
 📫 How to reach me:
-[![Contact](https://skillicons.dev/icons?i=linkedin,discord&perline=2)](https://www.linkedin.com/in/angelssastre/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/angelssastre/)
+[![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/angelssastredatascience)
 
 
