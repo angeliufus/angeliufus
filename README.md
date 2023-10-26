@@ -1,16 +1,16 @@
-### My name is Àngels Sastre 👋
+### My name is  👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%8E%89%F0%9F%93%88+Hello+Data+Explorers!+%F0%9F%93%8A%F0%9F%8C%9F)](https://git.io/typing-svg)
-<!--
-**angeliufus/angeliufus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey There, Data Science Enthusiasts, Finance Gurus, and Business Analysts! 👋📈📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub world, where numbers dance, financial insights bloom, and data stories unfold! 🚀📈🔍
+
+I'm Àngels Sastre, your go-to data explorer and startup and new business . In the daytime, I'm your friendly financial analyst, armed with spreadsheets and business acumen. By night, I transform into a data scientist, wielding Python, and the art of machine learning to unlock the hidden treasures in data. 🌙🔢💼
+
+Whether I'm deciphering the secrets of the pension system in Spain, creating magical data visualizations, or diving into predictive analytics, I'm your trusted companion on this exciting journey through the realms of finance and data. 🌟🌐💰
+
+Feel free to dive into my repository filled with data science adventures, and my love for both data and a dash of humor. 🚀🤓
+
+Join me on this quest for knowledge, where we'll make finance fascinating and data analysis a thrilling adventure waiting to be told! 🌌📈🌟🚀
+
+
