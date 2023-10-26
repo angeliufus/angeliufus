@@ -8,7 +8,7 @@ An enthusiastic seeker of new business oportunities !
 
 Welcome to my GitHub world, where numbers dance, financial insights bloom, and data stories unfold! 🚀📈🔍
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![Contact:](https://skillicons.dev/icons?i=linkedin,discord,flutter&perline=2)](https://skillicons.dev)
 
 In daytime, I'm mostly your friendly financial analyst, armed with spreadsheets and business acumen. By night, I transform into a data scientist, wielding Python, and the art of machine learning to unlock the hidden treasures in data. 🌙🔢💼
 
