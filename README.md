@@ -45,10 +45,9 @@ When I'm not knee-deep in data, you can find me:
 
 ## How to Connect
 
-📫 Reach out to me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/angelssastre/) to explore collaboration opportunities or simply have a chat.
+📫 To explore collaboration opportunities or simply have a chat, reach out to me on: [![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/angelssastre/) 
 
-💬 Connect with me on [![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/angelssastredatascience) for more informal conversations and discussions.
-
+💬 For more informal conversations and discussions, connect with me on [![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/angelssastredatascience) 
 
 
 
