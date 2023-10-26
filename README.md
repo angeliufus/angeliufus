@@ -23,6 +23,9 @@ Feel free to dive into my repository filled with data science adventures, and my
 
 Join me on this quest for knowledge, where we'll make finance fascinating and data analysis a thrilling adventure waiting to be told! 🌌📈🌟🚀
 
+## Skills
+[![py](https://skillicons.dev/icons?i=py&bg=white&color=black)]
+
 ## Collaborate with Me!
 
 I'm always open to teaming up on exciting data science and analytics projects. Let's collaborate and create some data magic together! 🤝🔍📊
@@ -40,9 +43,11 @@ When I'm not knee-deep in data, you can find me:
 
 ## How to Connect
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/angelssastre/) to explore collaboration opportunities or simply have a chat.
+📫 Reach out to me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin&bg=white&color=black)](https://www.linkedin.com/in/angelssastre/) to explore collaboration opportunities or simply have a chat.
 
-💬 Connect with me on [Discord](https://discordapp.com/users/angelssastredatascience) for more informal conversations and discussions.
+💬 Connect with me on [![Discord](https://skillicons.dev/icons?i=discord&bg=white&color=black)](https://discordapp.com/users/angelssastredatascience) for more informal conversations and discussions.
+
+
 
 
 
