@@ -18,7 +18,7 @@ Join me on this quest for knowledge, where we'll make finance fascinating and da
 
 🤝 Totally up for lending a hand with NLP data science and any awesome social projects. Let's chat!" 🤗📊🌍
 
-⚡ Fun fact: I love sketching, hiking, asian food, Breaking bad, and sharing geeky interests with my family.
+⚡ Fun fact: I love sketching, hiking, real food cooking, movie festivals, and sharing geeky interests with my family.
 
 📫 How to reach me https://www.linkedin.com/in/angelssastre/
 
