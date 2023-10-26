@@ -7,10 +7,17 @@ Welcome to my GitHub world, where numbers dance, financial insights bloom, and d
 
 In daytime, I'm mostly your friendly financial analyst, armed with spreadsheets and business acumen. By night, I transform into a data scientist, wielding Python, and the art of machine learning to unlock the hidden treasures in data. 🌙🔢💼
 
-Whether I'm deciphering the secrets of the pension system in Spain, creating magical data visualizations, or diving into predictive analytics, I'm your trusted companion on this exciting journey through the realms of finance and data. 🤓🌟🌐💰
+Whether I'm deciphering the secrets of my first project 👨‍💻 in Data Science: Public pension predictions in Spain https://github.com/angeliufus/Estudi-amb-Machine-Learning-del-Sistema-de-Pensions-Public-espanyol, creating magical data visualizations, or diving into predictive analytics, I'm your trusted companion on this exciting journey through the realms of finance and data. 🤓🌟🌐💰
 
 Feel free to dive into my repository filled with data science adventures, and my love for both data and a dash of humor. 🚀🤓
 
 Join me on this quest for knowledge, where we'll make finance fascinating and data analysis a thrilling adventure waiting to be told! 🌌📈🌟🚀
 
+👯 Open to teaming up on cool data science and analytics projects! Let's make some data magic together!" 🤝🔍📊
+
+🤝 Totally up for lending a hand with NLP data science and any awesome social projects. Let's chat!" 🤗📊🌍
+
+⚡ Fun fact: I love sketching, hiking, asian food, Breaking bad, and sharing geeky interests with my family.
+
+📫 How to reach me https://www.linkedin.com/in/angelssastre/
 
