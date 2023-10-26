@@ -24,7 +24,9 @@ Feel free to dive into my repository filled with data science adventures, and my
 Join me on this quest for knowledge, where we'll make finance fascinating and data analysis a thrilling adventure waiting to be told! 🌌📈🌟🚀
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=py,mysql,stackoverflow&bg=white&color=black)
+![My Skills](https://skillicons.dev/icons?i=py,mysql,selenium,stackoverflow&bg=white&color=black)
+### Libraries
+Numpy, Pandas, Matplotlib, Plotly, Seaborn, Scrapy, Statsmodels, BeautifulSoup, Tensorflow
 
 ## Collaborate with Me!
 
