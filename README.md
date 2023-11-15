@@ -19,9 +19,9 @@ I have a deep passion for economic and social research, and I'm particularly int
 - Labour,Health, Social justice and wellbeing
 - Social Mobility by country 
 
-Feel free to dive into my repository filled with data science adventures, and my love for both data and a dash of humor. 🚀🤓
+Feel free to dive into my repository filled with data science adventures, my love for data and a dash of humor. 🚀🤓
 
-Join me on this quest for knowledge, where we'll make finance fascinating and data analysis a thrilling adventure waiting to be told! 🌌📈🌟🚀
+Join me on this quest for knowledge! 🌌📈🌟🚀
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,selenium,stackoverflow&bg=white&color=black)
