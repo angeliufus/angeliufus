@@ -12,8 +12,9 @@ By day, I'm your friendly financial analyst, navigating spreadsheets and decodin
 
 ## Research Focus
 
-I have a deep passion for economic and social research, and I'm particularly interested in exploring 👨‍💻 the following areas:
+I have a deep passion for discovering hidden economic factors that affect people's futures. I am specially interested in economic and social research, and I'm particularly interested in exploring 👨‍💻 the following areas:
 - Public pension sustainability in Spain : [Project Link](https://github.com/angeliufus/Estudi-amb-Machine-Learning-del-Sistema-de-Pensions-Public-espanyol)
+- Taxes and real social benefits per country
 - Education and job prospect relation
 - Gender differences in human capital accumulation
 - Labour,Health, Social justice and wellbeing
@@ -39,7 +40,7 @@ I'm also eager to lend a hand with Big Data projects or learning in Natural Lang
 ## Fun Facts
 
 When I'm not knee-deep in data, you can find me:
-- Sketching my thoughts or my 2 british shorthair cats 🎨
+- Sketching my thoughts or cuddling my 2 british shorthair cats 🎨
 - Exploring the great outdoors through hiking ⛰️
 - Cooking up delicious real food 🍳
 - Immersing myself in movie festivals 🎬
