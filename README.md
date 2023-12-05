@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=angeliufus&color=blueviolet)
 
-# My name is Àngels Sastre, trying to uncover the hidden insights of the huge amounts of data available. 
+# My name is Àngels Sastre, trying to uncover the the power of data to solve challenges. I'm excited to see where this path takes me next.
 
 
 ## About Me
