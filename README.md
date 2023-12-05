@@ -40,10 +40,12 @@ I'm also eager to lend a hand with Big Data projects or learning in Natural Lang
 ## Fun Facts
 
 When I'm not knee-deep in data, you can find me:
-- Sketching my thoughts or cuddling my 2 british shorthair cats 🎨
+- Traveling and exploring different cultures. I have lived in 4 continents.
+- Reading, listening about nutrition, health and wellbeing.
 - Exploring the great outdoors through hiking ⛰️
-- Cooking up delicious real food 🍳
+- Tasting new flavours and spices and cooking up delicious real food 🍳
 - Immersing myself in movie festivals 🎬
+- Sketching my thoughts or cuddling my 2 british shorthair cats 🎨
 - Sharing geeky interests with my family 🤓
 
 ## How to Connect
